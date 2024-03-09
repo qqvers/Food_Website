@@ -5,3 +5,7 @@
 html {
   box-sizing: border-box;
 }
+
+.button-filter {
+  @apply text-orange-500 py-2 px-6 mx-2 my-1 rounded-full border-orange-500 border hover:text-white hover:bg-orange-500;
+}
